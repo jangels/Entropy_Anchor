@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Environment variables
+.env
+
+# IDE
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+
+# Generated workspace files
+workspace/
+examples/workspace/
+
+# Logs
+*.log
+
+# Lock files (optional - uncomment if you want to ignore)
+# uv.lock

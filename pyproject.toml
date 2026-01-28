@@ -1,0 +1,30 @@
+[project]
+name = "vibe-skills"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    # Web
+    "fastapi==0.104.1",
+    "uvicorn==0.24.0",
+    "streamlit==1.28.1",
+
+    # Core typing / config
+    "python-dotenv==1.0.0",
+    "typing-extensions>=4.8.0",
+
+    # Pydantic (pin to compatible core to avoid import mismatch)
+    "pydantic==2.5.0",
+    "pydantic-core==2.14.1",
+
+    # Agent frameworks
+    # LangChain stack (uv index in this environment skips some 0.1.x; use 0.2+)
+    "langchain>=0.2,<0.3",
+    "langgraph>=0.0.20",
+    "langchain-openai>=0.1,<1",
+    "langchain-google-genai>=1.0.3",
+
+    # Dev / test
+    "pytest==7.4.3",
+]
