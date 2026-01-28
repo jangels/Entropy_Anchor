@@ -1,6 +1,10 @@
-# Entropy_Anchor - The Vibe Coder
+# Entropy_Anchor - Vibe-driven Agent Builder - The Vibe Architect 
 
-> "不要仅仅写代码，要赋予它秩序。开始编译现实。"
+> "意图架构师: 不要仅仅写代码，要赋予它秩序。开始编译现实。"
+
+> "熵之锚：负熵之锚, 工作于混沌边缘。
+
+> 混乱 > 坍缩 > 秩序, Idea > Action Node。"
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)

@@ -11,17 +11,17 @@ from typing import Optional
 
 # 配置页面
 st.set_page_config(
-    page_title="Entropy_Anchor - The Vibe Coder",
+    page_title="Entropy_Anchor - The Vibe Architect",
     page_icon="🌀",
     layout="wide",
 )
 
 # 标题
 st.title("🌀 Entropy_Anchor")
-st.caption("Vibe-driven Agent Builder - The Vibe Coder - 意图编译现实的智能体构建器")
+st.caption("Vibe-driven Agent Builder - The Vibe Architect - 意图编译现实的智能体构建器")
 
 st.markdown("""
-> "不要仅仅写代码，要赋予它秩序。开始编译现实。"
+> "意图架构师: 不要仅仅写代码，要赋予它秩序。开始编译现实。"
 
 > "熵之锚：负熵之锚, 工作于混沌边缘。
 
