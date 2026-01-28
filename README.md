@@ -1,4 +1,5 @@
-# Entropy_Anchor - Vibe-driven Agent Builder - The Vibe Architect 
+# Entropy_Anchor - The Vibe Architect 
+## Vibe-driven Agent Builder 
 
 > "意图架构师: 不要仅仅写代码，要赋予它秩序。开始编译现实。"
 
